@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="ふかふかテスト", layout="centered")
-st.title("ふかふかStreamlit Cloudテスト")
-st.write("この画面が見えたら、Cloudはちゃんと動いてるよ！")
-st.success("ふかふか成功してほしいなぁ…！")
+st.set_page_config(page_title="Fukafuka test", layout="centered")
+st.title("Fukafuka Streamlit Cloud Test")
+st.write("If you see this screen, then Cloud is working properly!")
+st.success("I really hope it's a success!")
